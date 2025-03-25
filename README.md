@@ -1,1 +1,2 @@
 # Dictionary
+A basic dictionary app built with HTML, CSS, and JavaScript allows users to look up word definitions quickly. The app features a simple user interface with a search bar where users can enter a word. JavaScript fetches data from an API, displaying the definition and pronunciation. CSS enhances the design, making it visually appealing and responsive. This project is ideal for beginners learning web development, covering essential concept like API handling.
